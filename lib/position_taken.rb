@@ -3,5 +3,5 @@
 def position_taken?(board, index)
   input_to_index = index
   if board[index] == "  "
-    return FALSE
+    return false
 end
