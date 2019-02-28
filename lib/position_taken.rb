@@ -5,4 +5,4 @@ def position_taken?(board, index)
   gets.index
   if board[index] == "  "
     return false
-end
+    end
